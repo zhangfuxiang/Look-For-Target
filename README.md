@@ -1,6 +1,6 @@
 # 简介 #
-###该项目是基于现实增强库Artoolkit，在Unity上进行开发的。实现目标指引功能并适用在Hololens上的AR应用。
-# 运行该项目步骤：#
+**该项目是基于现实增强库Artoolkit，在Unity上进行开发的。实现目标指引功能并适用在Hololens上的AR应用。**
+# 运行步骤#
 1. 解压HoloLensARToolKit(Unity)压缩包。
 2. 用Unity3D打开项目中的HoloLensARSample文件夹。
 3. 运行的scene是Sample文件夹下的HoloLensARToolKitSingle。
